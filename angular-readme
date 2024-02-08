@@ -1,6 +1,34 @@
-1. Setup
-2. Project structure
-3. version control
-5. Unit test
-6. Security
-7. Environment
+
+## Table of Contents
+- [About the App](#about-the-app)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About the App
+
+The Brain Quiz App is designed to provide an engaging quiz experience to users, focusing on challenging questions that stimulate the mind. It is suitable for all ages and offers a variety of quiz categories.
+
+## Features
+
+- **Interactive Quizzes**: Engage in thought-provoking quizzes that cover various topics.
+- **Score Tracking**: Keep track of your quiz performance and challenge yourself to improve.
+- **User-Friendly Interface**: Intuitive design for a seamless user experience.
+
+## Getting Started
+
+To run the Brain Quiz App locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/CodingWithTashi/tibetan_brain_game.git
+
+# Navigate to the project directory
+cd tibetan_brain_game
+
+# Install dependencies
+flutter pub get
+
+```
