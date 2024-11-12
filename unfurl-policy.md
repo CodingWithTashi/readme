@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Unfurl app (hereby referred to as "Application") for mobile devices that was created by Unfurl (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the Unfurl app (hereby referred to as "Application") for mobile devices that was created by Kharag (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -21,7 +21,7 @@ The Application collects your device's location, which helps the Service Provide
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Greg. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Unfurl. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
@@ -59,7 +59,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-11-09
+This privacy policy is effective as of 2024-11-12
 
 **Your Consent**
 
